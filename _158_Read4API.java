@@ -22,6 +22,8 @@ public class _158_Read4API {
 		}
 		return ptr;
 	}
+	
+	//DUMMY Read4 method
 
 	public int read4(char[] buff) {
 		return -1;
